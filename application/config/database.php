@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'gotcha',
+	'hostname' => '54.179.61.24',
+	'username' => 'admin_net',
+	'password' => 'mix1234',
+	'database' => 'admin_netflix',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
